@@ -1,6 +1,6 @@
 # custom_ads
 
-Create Your Own Custom Ads in Flutter App from Scratch | Flutter
+Create Your Own Custom Ads in Flutter App
 
 ## Getting Started
 
