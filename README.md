@@ -13,4 +13,4 @@ Custom Ads in this video are such as :-
 - Reward Ads - Video Ads
 
 Watch full Video on YouTube.
-- Video Link - https://youtu.be/Ord81Yxx-qo
+- Video Link - https://youtu.be/watch?v=Ord81Yxx-qo
