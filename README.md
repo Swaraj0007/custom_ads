@@ -11,3 +11,6 @@ Custom Ads in this video are such as :-
 - Banner Ads - Inline Ads
 - Interstitial Ads - Full Page Ads
 - Reward Ads - Video Ads
+
+Watch full Video on YouTube.
+- Video Link - https://youtu.be/Ord81Yxx-qo
